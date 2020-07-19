@@ -1,2 +1,2 @@
-# EmailApp
-A Simple Django App that sends Email
+#Django Contact Form
+A Simple Django Contact Form that sends Email
